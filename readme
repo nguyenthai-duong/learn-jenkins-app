@@ -1,0 +1,4 @@
+# khởi chạy dự án
+npm run build
+npm install -g serve
+serve -s build
